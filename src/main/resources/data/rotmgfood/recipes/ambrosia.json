@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "bab",
+        " b ",
+        "bbb"
+    ],
+    "key": {
+        "a": {
+            "item": "minecraft:honey_block"
+        },
+        "b": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "item": "rotmgfood:ambrosia",
+        "count": 1
+    }
+}
